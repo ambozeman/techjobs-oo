@@ -32,6 +32,10 @@ public class Job {
 
     }
 
+    public Job(String jobName) {
+
+    }
+
     public String getName() {
         return name;
     }
